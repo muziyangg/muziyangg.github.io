@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>music测试</title>
+    <url>/2022/11/19/music%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>测试</p>
+<div>aaa</div>
+
+
+
+
+    <div id="aplayer-WJTkXDbZ" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
+
+
+
+
+    <div id="aplayer-AqaopPSe" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="627070825" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
+
+
+
+
+    <div id="aplayer-ewGqyghc" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
+    ></div>
+
+
+
+<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"loop":true,"screenshot":true,"video":{"url":"https://dl.sm9.top/Video/2018/%E6%8E%98%E5%9C%B0%E6%B1%82%E5%8D%87_x264.mp4"},"danmaku":{"id":"46190A32F63DFF2CF0A3BB0F3293636C","api":"https://api.prprpr.me/dplayer/","addition":["https://api.prprpr.me/dplayer/v3/bilibili?aid=17150441"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
+
+
+
+<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"screenshot":"yes","video":{"url":"https://pic.zlinblog.cn/video/%E7%A4%BE%E7%95%9C%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-%E6%88%BF%E5%AD%90%E6%90%9E%E5%8D%AB%E7%94%9F.mp4","pic":"http://home.ustc.edu.cn/~mmmwhy/GEM.jpg"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","token":"tokendemo"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/11/19/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,45 +61,12 @@
 ]]></content>
   </entry>
   <entry>
-    <title>music测试</title>
-    <url>/2022/11/19/music%E6%B5%8B%E8%AF%95/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p>测试</p>
-<div>aaa</div>
-
-
-
-
-    <div id="aplayer-MFptzSUe" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="3986040" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
-    ></div>
-
-
-
-
-    <div id="aplayer-wSErWmvs" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="627070825" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
-    ></div>
-
-
-
-
-    <div id="aplayer-hevbWAQB" class="aplayer aplayer-tag-marker meting-tag-marker"
-         data-id="001Mf4Ic1aNYYK" data-server="tencent" data-type="album" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="180px" data-preload="auto" data-theme="#ad7a86" data-order="random"
-    ></div>
-
-
-
-<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"loop":true,"screenshot":true,"video":{"url":"https://dl.sm9.top/Video/2018/%E6%8E%98%E5%9C%B0%E6%B1%82%E5%8D%87_x264.mp4"},"danmaku":{"id":"46190A32F63DFF2CF0A3BB0F3293636C","api":"https://api.prprpr.me/dplayer/","addition":["https://api.prprpr.me/dplayer/v3/bilibili?aid=17150441"]}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script> 
-
-
-
-<div id="dplayer1" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"theme":"#FADFA3","loop":true,"screenshot":"yes","video":{"url":"https://pic.zlinblog.cn/video/%E7%A4%BE%E7%95%9C%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-%E6%88%BF%E5%AD%90%E6%90%9E%E5%8D%AB%E7%94%9F.mp4","pic":"http://home.ustc.edu.cn/~mmmwhy/GEM.jpg"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","token":"tokendemo"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
+    <title>宝贝的愿望</title>
+    <url>/2022/11/20/%E5%AE%9D%E8%B4%9D%E7%9A%84%E6%84%BF%E6%9C%9B/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p><img src="https://muziyangg.github.io/Blogimages/yuanwang.jpg" alt="yuanwang"></p>
 ]]></content>
-      <categories>
-        <category>测试</category>
-      </categories>
       <tags>
-        <tag>music</tag>
+        <tag>情感</tag>
       </tags>
   </entry>
   <entry>
@@ -219,12 +228,12 @@
       </tags>
   </entry>
   <entry>
-    <title>宝贝的愿望</title>
-    <url>/2022/11/20/%E5%AE%9D%E8%B4%9D%E7%9A%84%E6%84%BF%E6%9C%9B/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><p><img src="https://cdn.jsdelivr.net/gh/muziyangg/myblogimage@main/img/yuanwang.jpg" alt="yuanwang"></p>
+    <title>视频</title>
+    <url>/2022/11/20/%E8%A7%86%E9%A2%91/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"theme":"#FADFA3","loop":true,"screenshot":"yes","video":{"url":"https://pic.zlinblog.cn/video/%E7%A4%BE%E7%95%9C%E7%94%9F%E5%AD%98%E6%8C%87%E5%8D%97-%E6%88%BF%E5%AD%90%E6%90%9E%E5%8D%AB%E7%94%9F.mp4","pic":"http://home.ustc.edu.cn/~mmmwhy/GEM.jpg"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","token":"tokendemo"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>
 ]]></content>
       <tags>
-        <tag>情感</tag>
+        <tag>视频</tag>
       </tags>
   </entry>
 </search>
