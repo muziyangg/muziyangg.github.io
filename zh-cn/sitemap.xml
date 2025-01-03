@@ -2,26 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://muziyangg.github.io/</loc>
-    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://muziyangg.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://muziyangg.github.io/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://muziyangg.github.io/"
-                />
-  </url><url>
     <loc>https://muziyangg.github.io/categories/</loc>
-    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,8 +47,34 @@
     <loc>https://muziyangg.github.io/p/%E5%8A%9F%E8%83%BD%E5%AF%B9%E5%BA%94%E8%B7%AF%E5%BE%84/</loc>
     <lastmod>2024-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://muziyangg.github.io/page/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
+  </url><url>
+    <loc>https://muziyangg.github.io/archives/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
+  </url><url>
+    <loc>https://muziyangg.github.io/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://muziyangg.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://muziyangg.github.io/ar/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://muziyangg.github.io/"
+                />
+  </url><url>
+    <loc>https://muziyangg.github.io/links/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
+  </url><url>
     <loc>https://muziyangg.github.io/tags/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,27 +91,13 @@
                 href="https://muziyangg.github.io/tags/"
                 />
   </url><url>
-    <loc>https://muziyangg.github.io/tags/%E5%8E%A6%E9%97%A8%E7%BF%94%E5%AE%89/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://muziyangg.github.io/categories/%E4%B8%8A%E7%BA%BF%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://muziyangg.github.io/p/%E7%BF%94%E5%AE%89%E5%8C%BB%E9%99%A2%E6%80%9D%E6%BA%90%E9%99%A2%E5%8C%BA/</loc>
-    <lastmod>2024-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://muziyangg.github.io/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://muziyangg.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://muziyangg.github.io/links/</loc>
-  </url><url>
     <loc>https://muziyangg.github.io/categories/test/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
   </url><url>
     <loc>https://muziyangg.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
   </url><url>
     <loc>https://muziyangg.github.io/search/</loc>
+    <lastmod>2025-01-01T18:04:38+08:00</lastmod>
   </url>
 </urlset>
